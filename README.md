@@ -43,3 +43,9 @@ You can find the theming .rasi files in the `config` directory.
     ├── font.rasi           # font setting
     └── bluetoothmenu.rasi  # main menu and submenu theme
 ```
+
+## Enjoy
+
+Feel free to fork and modify the applet to your hearts content. If you do, please, share your results, cannot wait to see what yo'll guys create ^^!
+
+If you enjoy this applet leave a star :P.
